@@ -19,6 +19,13 @@ Francisco Evenilson Liandro Pinheiro, Ana Kely Lopes Ferreira, Wladimir Araujo T
 
 * Ana Kely Lopes. Ferreira,Críston Pereira de Souza, Francisco Camilo de Lima Filho, Francisco Ivanilso Soares Araujo, [*Uso de aprendizado profundo na classificação de imagens histopatologicas*](EU2020/Uso_de_Aprendizado_Profundo_na_classifica__o_de_imagens_histopatol_gicas__1_.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
 
+* Francisco Victor da Silva Pinheiro, Emanuel Ferreira Coutinho; Uma Ferramenta Web para Apoiar a Modelagem de Ecossistemas de Software Utilizando a Notação SSN, , Encontros Universitários UFC, Campus de Quixadá, 2020.
+
+* Victor Souza Lima , Wladimir Araújo Tavares, [*Visitando Redes Complexas*](EU2020/Visitando%20Redes%20Complexas%20(2).pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
+
+* Francisco Victor da Silva Pinheiro, Ronier da Silva Lima, Wladimir Araujo Tavares, [*Seminários de TCC: Relato de uma ação do PET Sistemas de Informação*](EU2020/ARTIGO_EU_2020___SEMIN_RIOS_TCC.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
+
+* Francisco Victor da Silva Pinheiro, Emanuel Ferreira Coutinho, [*Uma Ferramenta Web para Apoiar a Modelagem de Ecossistemas de Software Utilizando a Notação SSN*](EU2020/ARTIGO_EU_2020___ECOSSISTEMAS_DE_SOFTWARE.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
 
 ## Encontros Universitários 2021
 
