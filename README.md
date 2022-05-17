@@ -39,4 +39,4 @@ Encontros Universitários UFC, Campus de Quixadá, 2021.
 * Antonia Geíslia Vieira Gonçalves1
 , Antonio Edval Tavares de Melo Junior,
 Aline Araujo Souza,Getulio Macedo Pinho 
-, Wladimir Araujo Tavares , [*WTISC - Workshop de Tecnologia da Informação do Sertão Central - edição de 2021*](EU%202021/ARTIGO_EU_2021_WTISC.pdf)
+, Wladimir Araujo Tavares , [*WTISC - Workshop de Tecnologia da Informação do Sertão Central - edição de 2021*](EU%202021/ARTIGO_EU_2021_WTISC.pdf), Encontros Universitários UFC, Campus de Quixadá, 2021.
