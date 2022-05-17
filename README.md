@@ -25,7 +25,11 @@ Francisco Evenilson Liandro Pinheiro, Ana Kely Lopes Ferreira, Wladimir Araujo T
 
 * Francisco Victor da Silva Pinheiro, Ronier da Silva Lima, Wladimir Araujo Tavares, [*Seminários de TCC: Relato de uma ação do PET Sistemas de Informação*](EU2020/ARTIGO_EU_2020___SEMIN_RIOS_TCC.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
 
+* Francisco Costa Cassemiro Junior, Wladimir Araujo Tavares, [*Estudo Sobre o Método Lógico Para Escrita Científica*](EU2020/estudo-sobre-o-metodo-logico-para-escrita-cientifica.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
+
 * Francisco Victor da Silva Pinheiro, Emanuel Ferreira Coutinho, [*Uma Ferramenta Web para Apoiar a Modelagem de Ecossistemas de Software Utilizando a Notação SSN*](EU2020/ARTIGO_EU_2020___ECOSSISTEMAS_DE_SOFTWARE.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
+
+
 
 ## Encontros Universitários 2021
 
