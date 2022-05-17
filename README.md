@@ -15,6 +15,5 @@
 * Francisco Ivanilso S. Araujo, Francisco Camilo de Lima Filho,
 Francisco Evenilson Liandro Pinheiro, Ana Kely Lopes Ferreira, Wladimir Araujo Tavares, [*Impacto dos Ataques Cibernéticos Durante a Pandemia*](EU2020/Impacto_dos_Ataques_Cibern_ticos_Durante_a_Pandemia%20(4).pdf),  Encontros Universitários UFC, Campus de Quixadá, 2020.
 
-* Francisco Victor da Silva Pinheiro, Victor de Souza Lima, Wladimir Araujo Tavares, [*Minicurso de POO para a EEEP Venceslau Vieira Batista:
-Relato de uma ação do PET Sistemas de Informação*](), Encontros Universitários UFC, Campus de Quixadá, 2020.
+* Francisco Victor da Silva Pinheiro, Victor de Souza Lima, Wladimir Araujo Tavares, [*Minicurso de POO para a EEEP Venceslau Vieira Batista: Relato de uma ação do PET Sistemas de Informação*](EU2020/MINICURSO_POO_PARA_A_EEEP.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
 
