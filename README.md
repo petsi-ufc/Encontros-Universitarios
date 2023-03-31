@@ -3,7 +3,10 @@
 
 ## Encontros Universitários 2020
 
-* Francisco E. Liandro Pinheiro, Ingrid Teixeira Monteiro , Wladimir Araújo Tavares , Francisco Ivanilso Soares Araujo, [*Avaliação de Usabilidade no “Moodle 2”*](EU2020/Avalia%C3%A7%C3%A3o%20de%20Usabilidade%20no%20_Moodle%202_.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
+* Francisco Dayana Priscilla Nunes Ferreira Costa1
+, Ana Karine Nobre Bezerra1
+, Wladimir
+Araújo TavaresE. Liandro Pinheiro, Ingrid Teixeira Monteiro , Wladimir Araújo Tavares , Francisco Ivanilso Soares Araujo, [*Avaliação de Usabilidade no “Moodle 2”*](EU2020/Avalia%C3%A7%C3%A3o%20de%20Usabilidade%20no%20_Moodle%202_.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
 
 * Francisco Victor da Silva Pinheiro, Ronier da Silva Lima, Antonio Edval Tavares de Melo Junior , Wladimir Araujo Tavares, 
 [*Curso de Letramento Digital para Professores da Rede Municipal de Ensino de Quixadá: A experiência do PET-SI*](EU2020/ARTIGO_EU_2020___LETRAMENTO_DIGITAL.pdf), Encontros Universitários UFC, Campus de Quixadá, 2020.
@@ -51,3 +54,22 @@ Encontros Universitários UFC, Campus de Quixadá, 2021.
 , Antonio Edval Tavares de Melo Junior,
 Aline Araujo Souza,Getulio Macedo Pinho 
 , Wladimir Araujo Tavares , [*WTISC - Workshop de Tecnologia da Informação do Sertão Central - edição de 2021*](EU%202021/ARTIGO_EU_2021_WTISC.pdf), Encontros Universitários UFC, Campus de Quixadá, 2021.
+
+
+## Encontros Universitários 2022
+
+* Dayana Priscilla Nunes Ferreira Costa1 , Ana Karine Nobre Bezerra1 , Wladimir Araújo Tavares, [*A utilização de Cheat Sheet na disciplina de Banco de
+Dados*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+
+* Vanessa de Oliveira Lima, Letícia Pinheiro de Oliveira, Wladimir A. Tavares, [*Acompanhamento Estudantil aos Calouros*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+
+* Francisco Victor S. de Lima, Abner Enoque M. Silva, Wladimir A. Tavares, [*CinePET: um momento cultural de cinema*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+ 
+* Lucas Pereira Xavier, Wladimir A. Tavares, [*Comunicação: uma análise a respeito da edição de
+vídeos no Youtube do PET-SI*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+ 
+* Francisco Victor S. de Lima, Leticia Pinheiro , Wladimir A. Tavares, [*PETALKING: CÉLULA EDUCACIONAL
+COOPERATIVA DE INGLÊS*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+
+
+
