@@ -58,18 +58,38 @@ Aline Araujo Souza,Getulio Macedo Pinho
 
 ## Encontros Universitários 2022
 
-* Dayana Priscilla Nunes Ferreira Costa1 , Ana Karine Nobre Bezerra1 , Wladimir Araújo Tavares, [*A utilização de Cheat Sheet na disciplina de Banco de
-Dados*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+* Dayana Priscilla Nunes Ferreira Costa1 , Ana Karine Nobre Bezerra1 , Wladimir Araújo Tavares, [*A utilização de Cheat Sheet na disciplina de Banco de Dados*](/EU2022/eu-2022-A%20utilização%20de%20Cheat%20Sheet%20na%20disciplina%20de%20Banco%20de%20Dados_%20(1).pdf), Encontros Universitários UFC, Campus de Quixadá, 2022.
 
-* Vanessa de Oliveira Lima, Letícia Pinheiro de Oliveira, Wladimir A. Tavares, [*Acompanhamento Estudantil aos Calouros*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+* Vanessa de Oliveira Lima, Letícia Pinheiro de Oliveira, Wladimir A. Tavares, [*Acompanhamento Estudantil aos Calouros*](/EU2022/Acompanhamento%20aos%20calouros%20.pdf), Encontros Universitários UFC, Campus de Quixadá, 2022.
 
-* Francisco Victor S. de Lima, Abner Enoque M. Silva, Wladimir A. Tavares, [*CinePET: um momento cultural de cinema*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+* Francisco Victor S. de Lima, Abner Enoque M. Silva, Wladimir A. Tavares, [*CinePET: um momento cultural de cinema*](/EU2022/Cinepet-EU22-FINAL.pdf), Encontros Universitários UFC, Campus de Quixadá, 2022.
  
-* Lucas Pereira Xavier, Wladimir A. Tavares, [*Comunicação: uma análise a respeito da edição de
-vídeos no Youtube do PET-SI*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+* Lucas Pereira Xavier, Wladimir A. Tavares, [*Comunicação: uma análise a respeito da edição de vídeos no Youtube do PET-SI*](/EU2022/Comunicação_%20uma%20análise%20das%20redes%20sociais%20do%20PET-SI.docx.pdf), Encontros Universitários UFC, Campus de Quixadá, 2022.
  
-* Francisco Victor S. de Lima, Leticia Pinheiro , Wladimir A. Tavares, [*PETALKING: CÉLULA EDUCACIONAL
-COOPERATIVA DE INGLÊS*](), Encontros Universitários UFC, Campus de Quixadá, 2022.
+* Francisco Victor S. de Lima, Leticia Pinheiro , Wladimir A. Tavares, [*PETALKING: CÉLULA EDUCACIONAL COOPERATIVA DE INGLÊS*](/EU2022/PETalking-Final.pdf), Encontros Universitários UFC, Campus de Quixadá, 2022.
+
+
+## Encontros Universitários 2023
+
+* Beatriz Nascimento de Oliveira, Igor Farias de Souza Velozo, Wladimir Araujo Tavares , Ricardo Reis Pereira [*Projeto de Extensao PET Receba*](/EU2023/Resumo_PET_Receba-6.pdf), Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Michel O. Silva, Dayana Priscilla Nunes Ferreira Costa , Beatriz Nascimento de Oliveira , Marcus Túlio Cavalcante Oliveira
+, Ricardo Reis Pereira , Wladimir Araújo Tavares, [*WTISC - Workshop de Tecnologia da Informação do Sertão Central: Descrição e Avaliação da Experiência dos Participantes na Edição XVI - 2023*](/EU2023/Artigo%20Wtisc%202023.pdf), Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Francisco Victor Soares de Lima, Abner Enoque Monteiro Silva
+, Franciel Penha de Vasconcelos, Wladimir Araujo Tavares, Ricardo Reis Pereira, [*PET-SI na Preparação da Olimpíada Brasileira de Informatica*](/EU2023/Artigo_OBI%20(2).pdf),Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Franciel Silveira P. de Vasconcelos, Abner Enoque M. Silva, Francisco Victor S. de lima, Wladimir A. Tavares, [*PET-HARDWARE uma celula sobre o ensino de montagem de  computadores na UFC-Quixada*](/EU2023/ArtigoPetHardware.pdf), Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Hermeson Bastos Maia;  Wladimir A. Tavares; [*FIGMALAB: ENSINO DE PROTOTIPAÇÃO E UI DESIGN*](/EU2023/ArtigoFigmaLab%20(2).pdf), 
+Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Vitoria Ashley Lopes Ferreira, Guilherme Lima Moretti,Francisco Victor Soares de Lima, Wladimir Araujo Tavares, [*CELULA EDUCACIONAL COOPERATIVA-ADMINISTRAÇÃO E DESENVOLTURA PESSOAL*](/EU2023/Artigo%20System%20Managers.pdf), Encontros Universitários UFC, Campus de Quixadá, 2023.
+
+* Iago F. S. Velozo, Letícia P. Oliveira, Samuel C. Nascimento, Wladimir A. Tavares, [*Celula Educacional Cooperativa - Desenvolvimento Web e Inglês.*](/EU2023/Artigo%20CodeLang.pdf)
+
+
+
 
 
 
